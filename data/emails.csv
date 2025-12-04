@@ -1,0 +1,7 @@
+text,label
+"Your account has been suspended. Click here to verify your details immediately.","phishing"
+"Congratulations! You have won a lottery. Provide your bank details to claim.","phishing"
+"Please see the attached report for our meeting tomorrow.","legit"
+"Reminder: Your scheduled maintenance is on Friday at 3 PM.","legit"
+"We noticed suspicious activity on your account. Login here to secure it: http://fake-login.com","phishing"
+"Your Amazon order has been shipped and will be delivered tomorrow.","legit"
